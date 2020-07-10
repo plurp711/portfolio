@@ -332,8 +332,8 @@ body {
 }	
 
 .gallery-cell.is-selected, .gallery-cell-mobile.is-selected {
-  -webkit-filter: none;
-          filter: none;
+  	-webkit-filter: none;
+	filter: none;
 }
 
 /* cell number */
@@ -372,7 +372,7 @@ body {
 /* position dots in gallery */
 .flickity-page-dots {
 	display: none;
-  bottom: 0px;
+  	bottom: 0px;
 }
 /* white circles */
 .flickity-page-dots .dot {
@@ -386,6 +386,26 @@ body {
 .flickity-page-dots .dot.is-selected {
   background: white;
 }
+
+
+
+
+
+
+
+.flickity-prev-next-button.previous {
+	left: 35px !important;
+}
+
+.flickity-prev-next-button.next {
+	right: 35px !important;
+}
+
+
+
+
+
+
 
 .gallery-div, .skills-div {
 /*	background-color: rgb(200, 200, 200);
