@@ -8,7 +8,7 @@ function _inherits(subClass, superClass) { if (typeof superClass !== "function" 
 
 // SKILLS
 
-var skills = ['Swift', 'Xcode', 'JavaScript', 'Python', 'HTML', 'CSS', 'AJAX', 'PHP', 'Java', 'MySql', 'jQuery', 'React', 'Bootstrap', 'Node.js', 'Express', 'npm', 'Socket.IO', 'Firebase', 'Highcharts', 'pandas', 'Yelp Fusion API', 'Google Sheets API', 'YouTube Player API'];
+var skills = ['Swift', 'Xcode', 'JavaScript', 'Python', 'HTML', 'CSS', 'AJAX', 'PHP', 'Java', 'MySql', 'jQuery', 'React', 'Vue', 'Nuxt.js', 'Bootstrap', 'Node.js', 'Express', 'npm', 'Socket.IO', 'Firebase', 'Highcharts', 'pandas', 'Yelp Fusion API', 'Google Sheets API', 'YouTube Player API'];
 
 // EXPERIENCES
 
